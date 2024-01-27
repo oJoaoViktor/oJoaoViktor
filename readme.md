@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03bb85&size=35&center=true&vCenter=true&width=1000&lines=Prazer+em+conhecê-lo+meu+nome+é+João.;Bem-vindo+ao+meu+GitHub!:%29)](https://github.com/ojoaoviktor)
 
 <div align="center">
-<img align="right" height="350" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" >
+<img align="right" height="350" src="https://github.com/oJoaoViktor/oJoaoViktor/assets/143547666/9c4b0358-75e6-40b2-83ce-5ae70b33afa0">
 <h2 align="center">
 ⭐ Permita-me apresentar ⭐     
 </h2>
