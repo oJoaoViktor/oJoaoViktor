@@ -39,7 +39,7 @@
 <div align="center">
 <h2 align="center">📍 Visitantes 📍</h2>
 <p align="center">
-<img width="250" src="https://komarev.com/ghpvc/?username=ojoaoviktor&style=for-the-badge&label=Quantidade+de+visitantes&color=008D8F"/>
+<img width="250" src="https://komarev.com/ghpvc/?username=ojoaoviktor&style=for-the-badge&label=Quantidade+de+visitas&color=008D8F"/>
 </p>
 </div><br>
 <div>
