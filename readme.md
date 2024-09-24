@@ -2,7 +2,7 @@
 <a href="https://github.com/ojoaoviktor"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03bb85&height=120&section=header"/></a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03bb85&size=35&center=true&vCenter=true&width=1000&lines=Prazer+em+conhecê-lo+meu+nome+é+João.;Bem-vindo+ao+meu+GitHub!:%29)](https://github.com/ojoaoviktor)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03bb85&size=35&center=true&vCenter=true&width=1000&lines=Prazer+em+tê-lo+aqui+meu+nome+é+João.;Bem-vindo+ao+meu+GitHub!:%29)](https://github.com/ojoaoviktor)
 
 <div align="center">
 <img align="right" height="350" src="https://github.com/oJoaoViktor/oJoaoViktor/assets/143547666/9c4b0358-75e6-40b2-83ce-5ae70b33afa0">
