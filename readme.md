@@ -9,7 +9,7 @@
 <h2 align="center">
 ⭐ Permita-me apresentar ⭐     
 </h2>
-<p align="justify">Tenho 21 anos, comecei minha carreira na área da mecânica, mais especificamente na manutenção de moldes de injeção plástica. Hoje atuo no time de Soluções Digitais da Bosch e estudo para ser um desenvolvedor Full-Stack, com foco para o Back-End. 🖥</p>
+<p align="justify">Tenho 22 anos, comecei minha carreira na área da mecânica, mais especificamente na manutenção de moldes de injeção plástica. Hoje atuo no time de Soluções Digitais da Bosch e estudo para ser um desenvolvedor Full-Stack, com foco para o Back-End. 🖥</p>
 <div align="center">
   <h2 align="center">☎️ Conecte-se comigo ☎️</h2>
   <a align="center" href="mailto:joao.ano03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
